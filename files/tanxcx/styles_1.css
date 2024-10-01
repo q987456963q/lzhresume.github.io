@@ -24,7 +24,7 @@
   border-width:0px;
   position:absolute;
   left:221px;
-  top:1160px;
+  top:1140px;
   width:10px;
   height:16px;
   display:flex;
@@ -76,7 +76,7 @@
   border-width:0px;
   position:absolute;
   left:19px;
-  top:1657px;
+  top:1637px;
   width:103px;
   height:65px;
   display:flex;
@@ -121,7 +121,7 @@
   border-width:0px;
   position:absolute;
   left:41px;
-  top:1667px;
+  top:1647px;
   width:56px;
   height:18px;
   display:flex;
@@ -165,7 +165,7 @@
   border-width:0px;
   position:absolute;
   left:33px;
-  top:1693px;
+  top:1673px;
   width:76px;
   height:17px;
   display:flex;
@@ -217,7 +217,7 @@
   border-width:0px;
   position:absolute;
   left:137px;
-  top:1657px;
+  top:1637px;
   width:103px;
   height:65px;
   display:flex;
@@ -262,7 +262,7 @@
   border-width:0px;
   position:absolute;
   left:161px;
-  top:1667px;
+  top:1647px;
   width:56px;
   height:18px;
   display:flex;
@@ -306,7 +306,7 @@
   border-width:0px;
   position:absolute;
   left:175px;
-  top:1693px;
+  top:1673px;
   width:28px;
   height:17px;
   display:flex;
@@ -358,7 +358,7 @@
   border-width:0px;
   position:absolute;
   left:255px;
-  top:1657px;
+  top:1637px;
   width:103px;
   height:65px;
   display:flex;
@@ -403,7 +403,7 @@
   border-width:0px;
   position:absolute;
   left:279px;
-  top:1667px;
+  top:1647px;
   width:56px;
   height:18px;
   display:flex;
@@ -447,7 +447,7 @@
   border-width:0px;
   position:absolute;
   left:265px;
-  top:1693px;
+  top:1673px;
   width:88px;
   height:17px;
   display:flex;
@@ -502,7 +502,7 @@
   border-width:0px;
   position:absolute;
   left:9px;
-  top:978px;
+  top:958px;
   width:359px;
   height:42px;
   display:flex;
@@ -532,7 +532,7 @@
   border-width:0px;
   position:absolute;
   left:40px;
-  top:1013px;
+  top:993px;
   width:64px;
   height:4px;
   display:flex;
@@ -564,7 +564,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'黑体 Bold', '黑体';
+  font-family:'黑体 Bold', '黑体 Regular', '黑体';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -575,11 +575,11 @@
   border-width:0px;
   position:absolute;
   left:38px;
-  top:990px;
+  top:970px;
   width:66px;
   height:18px;
   display:flex;
-  font-family:'黑体 Bold', '黑体';
+  font-family:'黑体 Bold', '黑体 Regular', '黑体';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -610,7 +610,7 @@
   border-width:0px;
   position:absolute;
   left:129px;
-  top:1020px;
+  top:1000px;
   width:120px;
   height:1px;
   display:flex;
@@ -656,7 +656,7 @@
   border-width:0px;
   position:absolute;
   left:298px;
-  top:991px;
+  top:971px;
   width:42px;
   height:16px;
   display:flex;
@@ -702,7 +702,7 @@
   border-width:0px;
   position:absolute;
   left:182px;
-  top:991px;
+  top:971px;
   width:28px;
   height:16px;
   display:flex;
@@ -736,7 +736,7 @@
   border-width:0px;
   position:absolute;
   left:249px;
-  top:1020px;
+  top:1000px;
   width:120px;
   height:1px;
   display:flex;
@@ -784,7 +784,7 @@
   border-width:0px;
   position:absolute;
   left:296px;
-  top:1266px;
+  top:1246px;
   width:51px;
   height:12px;
   display:flex;
@@ -821,7 +821,7 @@
   border-width:0px;
   position:absolute;
   left:276px;
-  top:1264px;
+  top:1244px;
   width:16px;
   height:16px;
   display:flex;
