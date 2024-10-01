@@ -31012,7 +31012,7 @@
   position:relative;
   left:0px;
   top:0px;
-  width:48px;
+  width:54px;
   height:28px;
   background-image:none;
   border:none;
@@ -31071,7 +31071,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:48px;
+  width:54px;
   height:24px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -31091,7 +31091,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:48px;
+  width:54px;
   height:24px;
   display:flex;
   font-family:'阿里巴巴普惠体 3.0 75 SemiBold', '阿里巴巴普惠体 3.0 55 Regular', '阿里巴巴普惠体 3.0';
@@ -31109,14 +31109,14 @@
 }
 #u1021_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
 }
 #u1019_state1 {
   position:relative;
   left:0px;
   top:0px;
-  width:186px;
+  width:211px;
   height:28px;
   background-image:none;
   border:none;
@@ -31176,7 +31176,7 @@
   position:absolute;
   left:-5px;
   top:0px;
-  width:196px;
+  width:221px;
   height:34px;
 }
 #u1023 {
@@ -31184,7 +31184,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:186px;
+  width:211px;
   height:24px;
   display:flex;
   font-family:'阿里巴巴普惠体 3.0 75 SemiBold', '阿里巴巴普惠体 3.0 55 Regular', '阿里巴巴普惠体 3.0';
@@ -31209,7 +31209,7 @@
   position:relative;
   left:0px;
   top:0px;
-  width:247px;
+  width:274px;
   height:28px;
   background-image:none;
   border:none;
@@ -31269,7 +31269,7 @@
   position:absolute;
   left:-5px;
   top:0px;
-  width:257px;
+  width:284px;
   height:34px;
 }
 #u1025 {
@@ -31277,7 +31277,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:247px;
+  width:274px;
   height:24px;
   display:flex;
   font-family:'阿里巴巴普惠体 3.0 75 SemiBold', '阿里巴巴普惠体 3.0 55 Regular', '阿里巴巴普惠体 3.0';
@@ -31302,7 +31302,7 @@
   position:relative;
   left:0px;
   top:0px;
-  width:249px;
+  width:275px;
   height:28px;
   background-image:none;
   border:none;
@@ -31325,7 +31325,7 @@
   position:absolute;
   left:-5px;
   top:0px;
-  width:259px;
+  width:285px;
   height:34px;
 }
 #u1026 {
@@ -31333,7 +31333,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:249px;
+  width:275px;
   height:24px;
   display:flex;
   font-family:'阿里巴巴普惠体 3.0 75 SemiBold', '阿里巴巴普惠体 3.0 55 Regular', '阿里巴巴普惠体 3.0';
